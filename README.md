@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Mary Clayton (She/Her)
+
+### I am currently working on: Bug Tracker and practicing .NET & C#
+
+### Portfolio: https://marycathlean.wixsite.com/portfolio
+
 
 <!--
 **mary-clayton/mary-clayton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
