@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Mary Clayton (She/Her)
 
-### I am currently working on: Bug Tracker and practicing .NET & C#
+### I am currently working on: Portfolio and re-doing some projects
 
-### Portfolio: https://marycathlean.wixsite.com/portfolio
+### Portfolio: www.marycathlean.me (Under Construction)
 
 
 <!--
