@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Mary Clayton (She/Her)
 
-### I am currently working on: Portfolio and re-doing some projects
+### I am currently working on: Projects at my internship
 
-### Portfolio: www.marycathlean.me (Under Construction)
+### Portfolio: https://marycathleandesign.com
 
 
 <!--
