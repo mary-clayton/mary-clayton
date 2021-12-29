@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Mary Clayton (She/Her)
 
-### I am currently working on: Projects at my internship
+### I am currently working on: Projects at General Assembly.
 
-### Portfolio: https://marycathleandesign.com
+### Portfolio: https://marycathleandesign.com <- Under Construction
 
 
 <!--
