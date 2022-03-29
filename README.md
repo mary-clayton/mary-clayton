@@ -1,9 +1,8 @@
 ### Hi there 👋 I'm Mary Clayton (She/Her)
 
-### I am currently working on: Projects at General Assembly.
+### I am currently working on: EssenceMind and Dema Planner
 
-### Portfolio: https://marycathleandesign.com <- Under Construction
-
+### Portfolio: *** Under Construction ***
 
 <!--
 **mary-clayton/mary-clayton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
